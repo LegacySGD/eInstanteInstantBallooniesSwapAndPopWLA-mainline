@@ -1,0 +1,12 @@
+<ClientConfig>
+	<GameClient name="Balloonies Swap And Pop" clientCode="mobile" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="eInstantBallooniesSwapAndPopWLA" enableFreeSpin="N" clientversion="1.0" gameId="300-2037-0" />
+	<GameClient name="Balloonies Swap And Pop" clientCode="tablet" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="eInstantBallooniesSwapAndPopWLA" enableFreeSpin="N" clientversion="1.0" gameId="300-2037-0" />
+	<GameClient name="Balloonies Swap And Pop" clientCode="desktop" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="eInstantBallooniesSwapAndPopWLA" enableFreeSpin="N" clientversion="1.0" gameId="300-2037-0" />
+
+	<GameClient name="Balloonies Swap And Pop" clientCode="tabletmini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="eInstantBallooniesSwapAndPopWLA" enableFreeSpin="N" clientversion="1.0" gameId="300-2037-0" />
+	<GameClient name="Balloonies Swap And Pop" clientCode="desktopmini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="eInstantBallooniesSwapAndPopWLA" enableFreeSpin="N" clientversion="1.0" gameId="300-2037-0" />
+
+	<GameClient name="Balloonies Swap And Pop" clientCode="mobile" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="eInstantBallooniesSwapAndPopWLA" enableFreeSpin="N" clientversion="1.0" gameId="300-2037-1" />
+	<GameClient name="Balloonies Swap And Pop" clientCode="tablet" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="eInstantBallooniesSwapAndPopWLA" enableFreeSpin="N" clientversion="1.0" gameId="300-2037-1" />
+	<GameClient name="Balloonies Swap And Pop" clientCode="desktop" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="eInstantBallooniesSwapAndPopWLA" enableFreeSpin="N" clientversion="1.0" gameId="300-2037-1" />
+</ClientConfig>
